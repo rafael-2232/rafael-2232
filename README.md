@@ -1,8 +1,8 @@
 
 
- <h2 alinear="izquierda"  >👋 Hi, I’m @Rafael Romero Medina.   </h2> 
+ <h2 alinear="izquierda"  >👋 Hi, I’m Rafael Ricardo Romero Medina.   </h2> 
 
-- ### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 
   
 
