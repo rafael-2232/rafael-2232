@@ -6,7 +6,7 @@
 
   
 
-👨‍💻 I currently work as a QA analyst.\
+👨‍💻 I currently work as QA analyst.\
 💡 I like to explore new technologies and develop software solutions and quick tricks.\
 🎓 I'm currently studying test automation with playwright.\
 🌱 I'm on my way to learning more about automation, cybersecurity, Web3, and software architecture.\
