@@ -1,7 +1,7 @@
 \
-<!---
 
--    👋 Hi, I’m @Rafael Romero Medina                                                  -
+
+- <h2 alinear="izquierda"  >👋 Hi, I’m @Rafael Romero Medina.   </h2> 
 
 - ### 👨🏻‍💻 &nbsp;About Me
 
@@ -12,4 +12,4 @@
 ✍️ In my free time, I dedicate myself to writing blogs as hobbies or secondary activities.
 ✉️ You can email me at rafael890827@gmail.com! I will try to respond as soon as I can.
 
---->
+
