@@ -1,9 +1,10 @@
-\
 
 
 - <h2 alinear="izquierda"  >👋 Hi, I’m @Rafael Romero Medina.   </h2> 
 
 - ### 👨🏻‍💻 &nbsp;About Me
+
+  
 
 👨‍💻 I currently work as a QA analyst 
 💡 I like to explore new technologies and develop software solutions and quick tricks.\
